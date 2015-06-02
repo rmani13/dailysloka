@@ -1,0 +1,2 @@
+# dailysloka
+Repository for dailysloka
